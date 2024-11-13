@@ -19,22 +19,22 @@ Aqui estão as tecnologias utilizadas nesse projeto.
  
 ### 1 - Página inicial (Escala de Serviço)
 
-| Desktop  |          |
-| ------------------- | ------------------- |
-|  ![Escala_Screen_fs](https://github.com/) |  
+| Desktop         |
+| ----------------|
+|  ![Escala](https://github.com/3Thiago/minha_escala/blob/main/public/readme_images/escala.png) |  
 
-### 2 - Pessoas Cadastradas (Cards)
+### 2 - Pessoas Cadastradas (Users)
 
-| Desktop  |          |
-| ------------------- | ------------------- |
-|  ![Cards_Screen_fs](https://github.com/) |  
+| Desktop         |
+| ----------------|
+|  ![Users](https://github.com/3Thiago/minha_escala/blob/main/public/readme_images/users.png) |  
 
 
 ### 3 - Ranking
 
-| Desktop  |          |
-| ------------------- | ------------------- |
-|  ![Ranking_Screen_fs](https://github.com/) |  ![Ranking_Screen_sp](https://github.com/) |
+| Desktop         |
+| ----------------|
+|  ![Ranking](https://github.com/3Thiago/minha_escala/blob/main/public/readme_images/ranking.png) |  ![Ranking_Screen_sp](https://github.com/) |
 
 
 ## Features
