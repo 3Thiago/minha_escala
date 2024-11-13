@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:8
+    container_name: escala_mysql_container
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: escala_database
+      MYSQL_USER: my_user
+      MYSQL_PASSWORD: my_password
+    volumes:
+      - ./mysql-data:/var/lib/mysql  # Mapeando o diretório para persistir dados do MySQL
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql # Script de inicialização
+    ports:
+      - "3306:3306"
